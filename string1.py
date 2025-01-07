@@ -1,3 +1,3 @@
 a=["Hello", "Welcome", "AIML", "Epsilon"]
-b=" ".join(a)
+b=", ".join(a)
 print(b)
